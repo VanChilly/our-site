@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/our-site/static/css/main.49154a56.css",
-    "main.js": "/our-site/static/js/main.654f6be3.js",
-    "static/media/vlog.mp4": "/our-site/static/media/vlog.df9497d1cb74b9b48aec.mp4",
-    "static/media/windyHill.mp3": "/our-site/static/media/windyHill.25b91e379693c6e08304.mp3",
-    "static/media/beauty_1630324846957.JPEG": "/our-site/static/media/beauty_1630324846957.e246c18263b76c1cd6e1.JPEG",
-    "static/media/IMG_5857.JPEG": "/our-site/static/media/IMG_5857.79072de661b0a832410c.JPEG",
-    "static/media/IMG_5513.JPEG": "/our-site/static/media/IMG_5513.3ac9dd1974daea669cbd.JPEG",
-    "static/media/IMG_4163.JPG": "/our-site/static/media/IMG_4163.10ac1afe2813dc16b674.JPG",
-    "static/media/tree3.png": "/our-site/static/media/tree3.6c8c2c3c99dd7c2fa573.png",
-    "static/media/tree2.png": "/our-site/static/media/tree2.33f861ef9f06edeac959.png",
-    "static/media/snow.png": "/our-site/static/media/snow.12eee22748663fcc0ffe.png",
-    "static/media/tree1.png": "/our-site/static/media/tree1.c5cb1aaad639d6ac5286.png",
-    "index.html": "/our-site/index.html",
-    "main.49154a56.css.map": "/our-site/static/css/main.49154a56.css.map",
-    "main.654f6be3.js.map": "/our-site/static/js/main.654f6be3.js.map"
+    "main.css": "./static/css/main.b053340c.css",
+    "main.js": "./static/js/main.3d17c95a.js",
+    "static/media/vlog.mp4": "./static/media/vlog.df9497d1cb74b9b48aec.mp4",
+    "static/media/windyHill.mp3": "./static/media/windyHill.25b91e379693c6e08304.mp3",
+    "static/media/beauty_1630324846957.JPEG": "./static/media/beauty_1630324846957.e246c18263b76c1cd6e1.JPEG",
+    "static/media/IMG_5857.JPEG": "./static/media/IMG_5857.79072de661b0a832410c.JPEG",
+    "static/media/IMG_5513.JPEG": "./static/media/IMG_5513.3ac9dd1974daea669cbd.JPEG",
+    "static/media/IMG_4163.JPG": "./static/media/IMG_4163.10ac1afe2813dc16b674.JPG",
+    "static/media/tree3.png": "./static/media/tree3.6c8c2c3c99dd7c2fa573.png",
+    "static/media/tree2.png": "./static/media/tree2.33f861ef9f06edeac959.png",
+    "static/media/snow.png": "./static/media/snow.12eee22748663fcc0ffe.png",
+    "static/media/tree1.png": "./static/media/tree1.c5cb1aaad639d6ac5286.png",
+    "index.html": "./index.html",
+    "main.b053340c.css.map": "./static/css/main.b053340c.css.map",
+    "main.3d17c95a.js.map": "./static/js/main.3d17c95a.js.map"
   },
   "entrypoints": [
-    "static/css/main.49154a56.css",
-    "static/js/main.654f6be3.js"
+    "static/css/main.b053340c.css",
+    "static/js/main.3d17c95a.js"
   ]
 }
